@@ -18,3 +18,4 @@ BIN (TRACK 01) MD5: 6418838b2a4a90b981e2de5659ad267e
 
 **Description:**
 
+Everything unlocked. Starts at main menu. Damage: 4/8, Time: Normal
