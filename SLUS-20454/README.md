@@ -18,4 +18,4 @@ ISO MD5: 220cdcdde830b3434af98c2d3172a20b
 
 **Description:**
 
-Evveryting unlocked, starts at load screen. Multiplayer maps unlocked.
+Evveryting unlocked, starts at main menu with "LOAD" option highlighted. Multiplayer maps unlocked.
