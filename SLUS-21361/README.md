@@ -18,4 +18,4 @@ TRACK 01 MD5: 8B633BB1693BC2E7D979BF0E94C01E54
 
 **Description:**
 
-Co-op using Doppelganger Style. During the game, activate Devil Trigger (R1 + Circle) so that a second player can press Start and take control of your copy. You can complete all missions from 8 onward this way. It’s best to stay in the Super Legendary Dark Knight costume so you don’t consume the DT gauge.
+Co-op using Doppelganger Style. During the game, activate Devil Trigger (R1 + Circle) so that a second player can press Start and take control of your copy. You can complete all missions this way. It’s best to stay in the Super Legendary Dark Knight costume so you don’t consume the DT gauge.
