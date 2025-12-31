@@ -1,0 +1,20 @@
+**Game name:**
+
+Mister Mosquito (USA)
+
+**Game ID:**
+
+SLUS-20375
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7EF153ED574FB47D033A7000DB4DCCA6D619E429
+
+BIN MD5: 44A63CECB00D051C2A30B50AA314010A
+
+**Description:**
+
